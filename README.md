@@ -21,18 +21,18 @@ Intructions:
   
 4)create a SQLite Database
 
-#python3
+  #python3
 
-#database models
-class User(db.Model):
-    __tablename__ = 'users'
-    # db fields ...
+  #database models
+  class User(db.Model):
+      __tablename__ = 'users'
+      # db fields ...
 
-#database models
-class User(db.Model):
-    __tablename__ = 'users'
-    # db fields ...
-    
+  #database models
+  class User(db.Model):
+      __tablename__ = 'users'
+      # db fields ...
+
 4) flask run :)
     
     
