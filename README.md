@@ -23,12 +23,12 @@ Intructions:
 
 #python3
 
-# database models
+#database models
 class User(db.Model):
     __tablename__ = 'users'
     # db fields ...
 
-# database models
+#database models
 class User(db.Model):
     __tablename__ = 'users'
     # db fields ...
